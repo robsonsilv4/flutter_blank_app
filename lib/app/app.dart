@@ -7,6 +7,7 @@ class AppView extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       title: 'Flutter Blank App',
       theme: BlankTheme.light,
       darkTheme: BlankTheme.dark,
