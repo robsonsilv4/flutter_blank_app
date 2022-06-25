@@ -1,5 +1,5 @@
-name: blank_app
-description: A Blank App to start Your App.
+name: flutter_blank_app
+description: A Flutter Blank App to start Your App.
 publish_to: "none"
 version: 1.0.0+1
 

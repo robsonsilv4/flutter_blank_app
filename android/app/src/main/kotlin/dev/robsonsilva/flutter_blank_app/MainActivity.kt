@@ -1,4 +1,4 @@
-package dev.robsonsilva.blank_app
+package dev.robsonsilva.flutter_blank_app
 
 import io.flutter.embedding.android.FlutterActivity
 

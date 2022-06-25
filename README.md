@@ -1,3 +1,3 @@
-# Blank App
+# Flutter Blank App
 
-A Blank App to start Your App 🚀
+A Flutter Blank App to start Your App 🚀
